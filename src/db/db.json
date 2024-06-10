@@ -1,1 +1,32 @@
-[]
+[
+  {
+    "name": "Cecelia Jerde",
+    "phone": "783-512-0157",
+    "email": "Alek97@hotmail.com",
+    "job": "Investor Web Associate"
+  },
+  {
+    "name": "Darryl Koelpin",
+    "phone": "(372) 299-6686",
+    "email": "Karlie93@gmail.com",
+    "job": "Central Directives Developer"
+  },
+  {
+    "name": "Leland Emard",
+    "phone": "(486) 473-8619",
+    "email": "Maudie_Legros@hotmail.com",
+    "job": "Dynamic Usability Associate"
+  },
+  {
+    "name": "Joel Sipes",
+    "phone": "(265) 912-7391 x10048",
+    "email": "Harold_Cole@hotmail.com",
+    "job": "Senior Configuration Manager"
+  },
+  {
+    "name": "Wanda Schamberger",
+    "phone": "239-499-6590 x2175",
+    "email": "Gabriella.Kirlin1@gmail.com",
+    "job": "Legacy Markets Executive"
+  }
+]
